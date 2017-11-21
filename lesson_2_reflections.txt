@@ -11,6 +11,7 @@ Staging area is a buff which allow you to commit after you have done all the cha
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When I want to create a different version of the project, such as experiment version or foreign language version, I will make changes which may not in official version. In this situation, creating branches would be helpful to organize the project.
 
 How do the diagrams help you visualize the branch structure?
 
