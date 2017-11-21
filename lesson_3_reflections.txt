@@ -3,3 +3,6 @@ When multiple people work on the same project or same person works in different 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Some branches are not ready to be public.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches are in one repository. Clones are copies from remote to local or local to local. Forks are copies from other's GitHub repository to your own.
