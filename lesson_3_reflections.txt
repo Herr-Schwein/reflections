@@ -12,3 +12,6 @@ The origin/master branch records the latest ancestor of both local master and or
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Compare the different files, discuss with colleagues face to face. Using Git or GitHub would be much easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+An experiment branch, do not ruin master branch without checking.
