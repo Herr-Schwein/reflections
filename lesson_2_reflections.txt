@@ -23,3 +23,5 @@ Commit a new commit merge two branches heads. This commit has two parents.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic saves time but not always accurate.
+Manually takes time but more accurate.
