@@ -9,3 +9,6 @@ Branches are in one repository. Clones are copies from remote to local or local 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The origin/master branch records the latest ancestor of both local master and origin master. With this information, git can do the merge.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Compare the different files, discuss with colleagues face to face. Using Git or GitHub would be much easier.
